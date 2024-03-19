@@ -1,0 +1,68 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+   
+}
+
+body{
+    text-align: center;
+}
+
+section{
+    margin-top: 15px;
+}
+h1{
+  
+  background-color:violet;
+  display: inline;
+
+}
+p{
+    font-size: x-large;
+    
+}
+
+p1{
+    color: violet;
+    size: 100%;
+}
+h3{
+    background-color: violet;
+    display: inline;
+}
+
+    img{
+    border-radius: 50%;
+    height: 155px;
+    width: 155px;
+    border: slategrey 2px solid;
+    }
+   
+    .icons{
+        margin-top: 3px;
+    }
+    .icons a {
+        margin-right: 5px; 
+    }
+
+    .icons a:last-child{
+        margin-right: 0;
+    }
+
+
+
+.team_member{
+    display: inline-block;
+    margin-right: 5%;
+}
+
+
+
+.team_member:last-child {
+    margin-right: 0;
+}
+
+
+
